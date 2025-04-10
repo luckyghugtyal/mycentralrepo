@@ -1,4 +1,8 @@
 about g1
 it tells about file
 changes, updates 
+<<<<<<< HEAD
 more update
+=======
+now changes by feature1 
+>>>>>>> feature1
