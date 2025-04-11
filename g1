@@ -2,7 +2,12 @@ about g1
 it tells about file
 changes, updates 
 <<<<<<< HEAD
+<<<<<<< HEAD
 more update
 =======
 now changes by feature1 
+>>>>>>> feature1
+=======
+now changes by feature1
+adddd by f1
 >>>>>>> feature1
